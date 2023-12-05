@@ -7,7 +7,7 @@ This repository contains a collection of simulation codes for various scenarios 
 ## Contents
 
 - `voting_procedure.py`: This script simulates different voting procedures, illustrating how various voting systems can affect outcomes.
-- `restaurant_wait_time.py`: A simulation of customer wait times in restaurants, useful for understanding queue management and service efficiency.
+- `M/D/1.py`: A simulation of customer wait times, with Poisson arrivals, deterministic service time, and one service, useful for understanding queue management and service efficiency.
 - `treemap_visualization.py`: Code to generate treemap visualizations, helpful for data analysis and presentation in a compact, visually appealing format.
 
 ## Continuing Adding!
