@@ -20,7 +20,6 @@ This repository contains a collection of simulation codes for various scenarios 
   - **District Visualization**: Clearly delineates district boundaries with black lines.
   - **Adherence to Principles**: Follows the principles of equal population, contiguity, and compactness in district creation.
 
- ![alt text](voting_party_distribution
-/Equal_Distribution.png)
+ ![alt text](voting_party_distribution/Equal_Distribution.png)
 
 
